@@ -25,5 +25,5 @@ public class RetrofitService {
         return retrofit;
     }
 
-    AdminApi adminApi = retrofit.create(AdminApi.class);
+//    AdminApi adminApi = retrofit.create(AdminApi.class);
 }

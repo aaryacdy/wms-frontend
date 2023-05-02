@@ -14,7 +14,7 @@ import retrofit2.http.POST;
 public interface AdminApi {
 
     @POST(value = "api/admin/findall")
-    Call<List<Admin>> getAlldmin();
+    Call<List<Admin>> getAllAdmin();
 
     @FormUrlEncoded
     @POST("/api/admin/signup/save")

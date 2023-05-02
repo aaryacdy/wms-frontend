@@ -19,19 +19,4 @@ public class MainActivity extends AppCompatActivity {
 //        setContentView();
     }
 
-
- /*   Call<ResponseBody> call = ad.submitForm("John Doe", "johndoe@example.com", "Hello, world!");
-call.enqueue(new Callback<ResponseBody>() {
-        @Override
-        public void onResponse(Call<ResponseBody> call, Response<ResponseBody> response) {
-            // Handle success
-        }
-
-        @Override
-        public void onFailure(Call<ResponseBody> call, Throwable t) {
-            // Handle error
-        }
-    });*/
-
-
 }

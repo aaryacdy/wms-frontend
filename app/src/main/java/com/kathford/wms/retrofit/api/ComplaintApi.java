@@ -1,4 +1,4 @@
 package com.kathford.wms.retrofit.api;
 
-public class ComplaintApi {
+public interface ComplaintApi {
 }
